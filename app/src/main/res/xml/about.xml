@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<about>
+    <me.jfenn.attribouter.wedges.AppWedge description="Revolution Redefined." >
+        <me.jfenn.attribouter.wedges.link.LinkWedge
+            name="Website"
+            icon="@drawable/ic_link"
+            url="https://tathva.org"
+            priority="1" />
+        <me.jfenn.attribouter.wedges.link.LinkWedge
+            name="Instagram"
+            icon="@drawable/ic_instagram"
+            url="https://instagram.com/tathva_nitcalicut?igshid=1egdn1pdyy68j"/>
+        <me.jfenn.attribouter.wedges.link.LinkWedge
+            name="Facebook"
+            icon="@drawable/ic_fb"
+            url="https://www.facebook.com/tathva/"/>
+        <me.jfenn.attribouter.wedges.link.LinkWedge
+            name="YouTube"
+            icon="@drawable/ic_yt"
+            url="https://www.youtube.com/user/tathvanit" />
+        <me.jfenn.attribouter.wedges.link.LinkWedge
+            hidden="true"
+            id="playStore" />
+    </me.jfenn.attribouter.wedges.AppWedge>
+
+    <me.jfenn.attribouter.wedges.ContributorsWedge>
+
+        <me.jfenn.attribouter.wedges.ContributorWedge
+            login="happycoder97"
+            task="Lead Developer"
+            position="1" />
+
+        <me.jfenn.attribouter.wedges.ContributorWedge
+            login="edvinbasil"
+            task="Back-end Developer"
+            position="2" />
+
+        <me.jfenn.attribouter.wedges.ContributorWedge
+            login="Vyshnav2255"
+            position="^4" />
+
+        <me.jfenn.attribouter.wedges.ContributorWedge
+            login="gauthamkrishna9991"
+            task="Developer"/>
+
+        <me.jfenn.attribouter.wedges.ContributorWedge
+            login="alan-tom"
+            task="Front-end Developer"
+            position="3" />
+
+        <me.jfenn.attribouter.wedges.ContributorWedge
+            login="mushrifshahreyar5"
+            task="Front-end Developer"/>
+
+
+    </me.jfenn.attribouter.wedges.ContributorsWedge>
+
+    <me.jfenn.attribouter.wedges.LicensesWedge
+        overflow="1"
+        showDefaults="false">
+        <me.jfenn.attribouter.wedges.LicenseWedge repo="fennifith/ColorPickerDialog" />
+    </me.jfenn.attribouter.wedges.LicensesWedge>
+
+</about>

@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
+ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
 MERGED from [info.androidhive:fontawesome:0.0.5] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\3406863cb783f845fc85042b6e239f9d\jetified-fontawesome-0.0.5\AndroidManifest.xml:2:1-11:12
-MERGED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.1] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\12efabf5bc3ac60c4df727f19793c11b\appcompat-1.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\1b49c64b259a4fbf1ea65db9c07e8976\jetified-glide-4.7.1\AndroidManifest.xml:2:1-13:12
@@ -40,27 +40,27 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cocva\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android:flexbox:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\6d0b38e261b43b37cc53b0360bf4cb2f\jetified-flexbox-1.0.0\AndroidManifest.xml:17:1-27:12
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
 	package
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:2:5-41
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:1-20:12
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:4:5-19:19
-MERGED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:19
-MERGED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:19
+ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:4:5-19:19
+MERGED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:19
+MERGED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\1b49c64b259a4fbf1ea65db9c07e8976\jetified-glide-4.7.1\AndroidManifest.xml:11:5-20
@@ -74,39 +74,39 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\cocva\.gradle\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\2ffb88316df49107418be0872d7babe4\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:6:9-39
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:6:9-39
 	android:roundIcon
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:8:9-49
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:8:9-49
 	android:icon
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:7:9-38
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:7:9-38
 	android:allowBackup
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:5:9-35
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:5:9-35
 	android:theme
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:10:9-40
 activity#me.jfenn.attriboutersample.MainActivity
-ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:12:9-17:20
+ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:12:9-17:20
 	android:name
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:13:13-16:29
+ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
 MERGED from [info.androidhive:fontawesome:0.0.5] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\3406863cb783f845fc85042b6e239f9d\jetified-fontawesome-0.0.5\AndroidManifest.xml:7:5-9:41
 MERGED from [info.androidhive:fontawesome:0.0.5] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\3406863cb783f845fc85042b6e239f9d\jetified-fontawesome-0.0.5\AndroidManifest.xml:7:5-9:41
-MERGED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\cb634fe4b4d1fdfcd5255e485d30a0c1\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.1] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\12efabf5bc3ac60c4df727f19793c11b\appcompat-1.0.1\AndroidManifest.xml:20:5-44
@@ -175,23 +175,23 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cocva\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android:flexbox:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\6d0b38e261b43b37cc53b0360bf4cb2f\jetified-flexbox-1.0.0\AndroidManifest.xml:23:5-25:41
 MERGED from [com.google.android:flexbox:1.0.0] C:\Users\cocva\.gradle\caches\transforms-2\files-2.1\6d0b38e261b43b37cc53b0360bf4cb2f\jetified-flexbox-1.0.0\AndroidManifest.xml:23:5-25:41
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-		ADDED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
-		INJECTED from F:\App\Tathva 19 App (About Page)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Studio Projects\Tathva 19 App About\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+ADDED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-64
+		ADDED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-64
 activity#me.jfenn.attribouter.activities.AboutActivity
-ADDED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-16:55
+ADDED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-16:55
 	android:theme
-		ADDED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-52
+		ADDED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-52
 	android:name
-		ADDED from [:attribouter] F:\App\Tathva 19 App (About Page)\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-73
+		ADDED from [:attribouter] D:\Android Studio Projects\Tathva 19 App About\attribouter\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-73

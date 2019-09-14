@@ -1,4 +1,4 @@
-#Thu Sep 12 18:31:47 IST 2019
-base.0=F\:\\App\\Tathva 19 App (About Page)\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Sat Sep 14 14:24:28 IST 2019
+base.0=D\:\\Android Studio Projects\\Tathva 19 App About\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

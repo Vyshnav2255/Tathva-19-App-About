@@ -6,22 +6,22 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml
+8-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml
+9-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml:4:5-67
-11-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml:4:22-64
+11-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml:4:5-67
+11-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml:4:22-64
 12
 13    <application>
-13-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml:6:5-12:19
+13-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml:6:5-12:19
 14        <activity
-14-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml:8:9-10:55
+14-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml:8:9-10:55
 15            android:name="me.jfenn.attribouter.activities.AboutActivity"
-15-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml:9:13-53
+15-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml:9:13-53
 16            android:theme="@style/AttribouterTheme" />
-16-->F:\App\Tathva 19 App (About Page)\attribouter\src\main\AndroidManifest.xml:10:13-52
+16-->D:\Android Studio Projects\Tathva 19 App About\attribouter\src\main\AndroidManifest.xml:10:13-52
 17    </application>
 18
 19</manifest>

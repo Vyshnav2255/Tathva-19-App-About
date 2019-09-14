@@ -19,7 +19,6 @@
         android:label="@string/Tathva"
         android:roundIcon="@mipmap/tathva_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="me.jfenn.attriboutersample.MainActivity" >
             <intent-filter>
